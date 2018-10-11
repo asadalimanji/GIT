@@ -1,0 +1,4 @@
+git init Initialises working directory
+git add . adds all files in the working directory
+git add filename.ext adds that particular file
+git commit -m "desc" adds a filEs to the local repo
